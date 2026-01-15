@@ -33,7 +33,7 @@ This calculator allows users to perform basic mathematical calculations through 
 ---
 
 ## 📂 Project Structure
-
+```
 Calculator/
 │
 ├── calculator/
@@ -43,7 +43,7 @@ Calculator/
 │ ├── img.jpg # Preview image
 │
 └── README.md
-
+````
 
 ---
 
